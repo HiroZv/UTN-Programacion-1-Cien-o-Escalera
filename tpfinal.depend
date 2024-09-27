@@ -1,0 +1,312 @@
+# depslib dependency file v1.0
+1721172504 source:c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\main.cpp
+	<iostream>
+	"rlutil.h"
+	<string>
+	<cstdlib>
+	"rlutil.h"
+	"interfaz.h"
+	"instrucciones.h"
+	"marconombre.h"
+	"puntuacionmaxima.h"
+	"cambiorondados.h"
+	"cartelganadordos.h"
+	"interfazjugadordos.h"
+	"cambiorondauno.h"
+	"cartelganadoruno.h"
+	"menualganar.h"
+	"dadosjuego.h"
+	"interfazjugadoruno.h"
+	"marcocomenzar.h"
+	"instruccionesdos.h"
+	"marconombredos.h"
+	"cartelganaste.h"
+	"sextetocartel.h"
+	"cartelsextetoseis.h"
+	"cartelhastapronto.h"
+	"menualganardos.h"
+	"marcopuntaje.h"
+	"cartelescalera.h"
+	"mostrarpuntaje.h"
+	"interfazsimulado.h"
+	"menu.h"
+	"cambiorondados.h"
+	"mostrarpuntaje.h"
+	"dados.h"
+	"funcionesdados.h"
+	"marconombredos.h"
+	"dosjugadores.h"
+	"modosimulado.h"
+	"juego.h"
+	"menuinicio.h"
+
+1571584339 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1721080582 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\puntuacionmaxima.h
+	"menualganar.h"
+
+1721174359 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\menualganar.h
+
+1719856727 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\cambiorondados.h
+
+1719956634 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\cartelganadordos.h
+
+1719795357 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\interfazjugadordos.h
+
+1719854865 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\cambiorondauno.h
+
+1719956642 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\cartelganadoruno.h
+
+1719545464 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\dadosjuego.h
+
+1719793060 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\interfazjugadoruno.h
+
+1719511322 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\marcocomenzar.h
+
+1719765200 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\instruccionesdos.h
+
+1719764965 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\marconombredos.h
+
+1719764852 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\cartelganaste.h
+
+1720377110 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\sextetocartel.h
+
+1719729673 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\cartelsextetoseis.h
+
+1719512043 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\cartelhastapronto.h
+
+1721174237 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\menualganardos.h
+
+1719511581 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\marcopuntaje.h
+
+1719726449 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\cartelescalera.h
+
+1720631408 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\mostrarpuntaje.h
+	"funcionesdados.h"
+
+1720379332 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\funcionesdados.h
+	<cstdlib>
+	<ctime>
+
+1720375379 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\interfazsimulado.h
+
+1721171297 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\menu.h
+	"menuinicio.h"
+	"modosimulado.h"
+	"juego.h"
+	"dosjugadores.h"
+
+1721078116 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\menuinicio.h
+
+1721080330 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\modosimulado.h
+	"funcionesdados.h"
+
+1721174388 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\juego.h
+
+1721170432 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\dosjugadores.h
+
+1719764910 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\marconombre.h
+
+1718238265 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\dados.h
+
+1719510955 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\instrucciones.h
+
+1719765771 c:\users\bruno\desktop\todo\tpfinalbruo\tpfinalbruno\interfaz.h
+
+1721313527 source:c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\main.cpp
+	<iostream>
+	"rlutil.h"
+	<string>
+	<cstdlib>
+	"logicajugadordos.h"
+	"logicajugadoruno.h"
+	"rlutil.h"
+	"interfaz.h"
+	"instrucciones.h"
+	"marconombre.h"
+	"puntuacionmaxima.h"
+	"cambiorondados.h"
+	"cartelganadordos.h"
+	"interfazjugadordos.h"
+	"cambiorondauno.h"
+	"cartelganadoruno.h"
+	"menualganar.h"
+	"dadosjuego.h"
+	"interfazjugadoruno.h"
+	"marcocomenzar.h"
+	"instruccionesdos.h"
+	"marconombredos.h"
+	"cartelganaste.h"
+	"sextetocartel.h"
+	"cartelsextetoseis.h"
+	"cartelhastapronto.h"
+	"menualganardos.h"
+	"marcopuntaje.h"
+	"cartelescalera.h"
+	"mostrarpuntaje.h"
+	"interfazsimulado.h"
+	"menu.h"
+	"cambiorondados.h"
+	"mostrarpuntaje.h"
+	"dados.h"
+	"funcionesdados.h"
+	"marconombredos.h"
+	"dosjugadores.h"
+	"modosimulado.h"
+	"juego.h"
+	"menuinicio.h"
+
+1571584339 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1719765771 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\interfaz.h
+
+1719510955 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\instrucciones.h
+
+1719764910 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\marconombre.h
+
+1721080582 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\puntuacionmaxima.h
+	"menualganar.h"
+
+1721174359 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\menualganar.h
+
+1719856727 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\cambiorondados.h
+
+1719956634 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\cartelganadordos.h
+
+1719795357 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\interfazjugadordos.h
+
+1719854865 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\cambiorondauno.h
+
+1719956642 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\cartelganadoruno.h
+
+1719545464 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\dadosjuego.h
+
+1719793060 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\interfazjugadoruno.h
+
+1719511322 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\marcocomenzar.h
+
+1719765200 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\instruccionesdos.h
+
+1719764965 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\marconombredos.h
+
+1719764852 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\cartelganaste.h
+
+1720377110 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\sextetocartel.h
+
+1719729673 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\cartelsextetoseis.h
+
+1719512043 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\cartelhastapronto.h
+
+1721174237 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\menualganardos.h
+
+1719511581 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\marcopuntaje.h
+
+1719726449 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\cartelescalera.h
+
+1721314567 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\mostrarpuntaje.h
+	"funcionesdados.h"
+
+1721275725 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\funcionesdados.h
+	<cstdlib>
+	<ctime>
+
+1720375379 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\interfazsimulado.h
+
+1721307624 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\menu.h
+	"menuinicio.h"
+	"modosimulado.h"
+	"juego.h"
+	"dosjugadores.h"
+
+1721078116 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\menuinicio.h
+
+1721307759 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\modosimulado.h
+	"funcionesdados.h"
+	"interfazsimulado.h"
+	"cartelhastapronto.h"
+	"cartelsextetoseis.h"
+	"sextetocartel.h"
+	"cartelganaste.h"
+
+1721314249 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\juego.h
+	"instrucciones.h"
+	"interfaz.h"
+	"menu.h"
+	"cartelhastapronto.h"
+	"cartelsextetoseis.h"
+	"sextetocartel.h"
+	"cartelganaste.h"
+	"puntuacionmaxima.h"
+	"marconombre.h"
+
+1721313638 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\dosjugadores.h
+	"marconombredos.h"
+	"instruccionesdos.h"
+	"marcocomenzar.h"
+	"marcopuntaje.h"
+	"cartelganadoruno.h"
+	"cambiorondauno.h"
+	"interfazjugadordos.h"
+	"menualganardos.h"
+	"menu.h"
+	"cartelhastapronto.h"
+	"cartelsextetoseis.h"
+	"sextetocartel.h"
+	"cartelganadordos.h"
+	"puntuacionmaxima.h"
+	"cambiorondados.h"
+	"logicajugadoruno.h"
+	"logicajugadordos.h"
+
+1718238265 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\dados.h
+
+1721314140 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\logicajugadoruno.h
+	"interfazjugadoruno.h"
+	"funcionesdados.h"
+	"dadosjuego.h"
+	"mostrarpuntaje.h"
+	"cartelescalera.h"
+	"menualganar.h"
+	"dosjugadores.h"
+	"sextetocartel.h"
+	"menu.h"
+	"cartelhastapronto.h"
+	"cartelsextetoseis.h"
+
+1721314131 c:\users\bruno\desktop\todo\tpfinal\tpfinalbruno\logicajugadordos.h
+	"interfazjugadoruno.h"
+	"funcionesdados.h"
+	"dadosjuego.h"
+	"mostrarpuntaje.h"
+	"cartelescalera.h"
+	"menualganar.h"
+	"dosjugadores.h"
+	"sextetocartel.h"
+	"menu.h"
+	"cartelhastapronto.h"
+	"cartelsextetoseis.h"
+
